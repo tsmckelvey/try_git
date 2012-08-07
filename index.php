@@ -1,6 +1,6 @@
 <?php
 /**
- * version 0.1
+ * version 1.0
  */
 ?>
 <!DOCTYPE html>
@@ -13,6 +13,7 @@
     <style>
         html, body {
             height: 100%;
+            background: #fff;
         }
         footer {
             color: #666;
